@@ -1,2 +1,4 @@
 # auprico
-automated processes and intelligent components
+*Au*tomated *Pr*ocesses and *I*ntelligent *Co*mponents
+
+
