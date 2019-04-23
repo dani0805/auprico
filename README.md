@@ -1,5 +1,5 @@
 # Auprico
-**Au**tomated **Pr**ocesses and **I**ntelligent **Co**mponents
+### AUtomated PRocesses and Intelligent COmponents
 
 the aim of this project is the creation of a modular and flexible platform for process automation. Auprico leverages Django for serverside computing, graphql as API and Angular as clientside technology.
 
@@ -20,6 +20,10 @@ serverside matadata driven workflow managemnt
 ## auprico-scheduler
 
 serverside auprico own cronlike scheduler
+
+## auprico-etl
+
+metadata driven etl routines
 
 ## auprico-auth-ui
 
