@@ -3,7 +3,7 @@
 
 the aim of this project is the creation of a modular and flexible platform for process automation. Auprico leverages Django for serverside computing, graphql as API and Angular as clientside technology.
 
-The project is divided into several subprojects, more will be added as we refactore and open source the functionalities.
+The project is divided into several subprojects, more will be added as we refactor and open source the functionalities.
 
 ## auprico-core
 
