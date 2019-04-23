@@ -35,7 +35,7 @@ angular components for workflow setup and monitoring
 
 ## auprico-scheduler-ui
 
-angualr components for scheduler management
+angular components for scheduler management
 
 
 
